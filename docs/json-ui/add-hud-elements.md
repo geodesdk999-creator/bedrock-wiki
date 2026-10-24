@@ -86,4 +86,3 @@ It is often helpful for organizational purposes to not add many elements to the 
 ```
 
 The `hud_elements_panel` does not have its size parameter directly defined so that it will inherit its parent's (`root_panel`) size. This allows child anchoring, % size, etc. to work relative to the hud screen.
-```
